@@ -1,0 +1,32 @@
+{
+  "name": "norovirus-blast-analysis",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BCCDC-PHL/norovirus-blast-analysis-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BCCDC-PHL/norovirus-blast-analysis-site/issues"
+  },
+  "homepage": "https://github.com/BCCDC-PHL/norovirus-blast-analysis-site#readme",
+  "devDependencies": {
+    "webpack": "^5.52.1",
+    "webpack-cli": "^4.8.0"
+  },
+  "dependencies": {
+    "ag-charts-community": "^4.0.1",
+    "ag-charts-react": "^4.0.0",
+    "ag-grid-community": "^26.0.0",
+    "ag-grid-react": "^26.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}

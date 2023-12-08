@@ -1,0 +1,9 @@
+.cpcache
+.nrepl-port
+.calva
+.clj-kondo
+.lsp
+target
+node_modules
+resources/public/data
+scripts/copy_data.sh
